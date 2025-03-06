@@ -5,7 +5,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <img alt="image not found" align="right" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
-<br/>
+</br>
 
 - 🌱 I’m currently learning **VPN, GSI CUSTOM ROM, CLOUDFLARE-WORKER, VPS...**
 
@@ -25,17 +25,19 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-<br/>
-<br/>
- <hr/>
+<br>
+<br>
+ <hr>
+
+ 
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+</br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,html,css,bootstrap,javascript,jquery,react" /><br/><br/>
     <img src="https://skillicons.dev/icons?i=eclipse,postman,mysql,hibernate,spring,java,github" /><br>
 </div>
-<hr/>
+<hr>
 <!-- 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -55,12 +57,17 @@
  -->
 <br>
 
-<div  align="center">
-<!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mohsin8421&show_icons=true&locale=en" alt="mohsin8421" /></p> -->
-
+<!-- streak stats -->
+<!-- <div  align="center">
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsin8421&" alt="mohsin8421" /></p><br>
-<!-- <p><img  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohsin8421&show_icons=true&locale=en&layout=compact" alt="mohsin8421" /></p> -->
-</div>
+</div> -->
+
+
+
+
+<img align="right" height="200" src="https://media.tenor.com/kJuDMXGW8awAAAAi/pokemon-gengar.gif"  />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/271839856-3b4607a1-1cc6-41f1-926f-892ae880e7a5.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241009%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241009T045330Z&X-Amz-Expires=300&X-Amz-Signature=2926aa894d9314b7835c233f5de756bc3605ab14bd00a5dfea86497767e58c74&X-Amz-SignedHeaders=host" width="500">
+<br><br>
+
 <br>
 <hr>
-
